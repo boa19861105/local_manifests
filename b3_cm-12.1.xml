@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="b3-Dev/android_device_htc_b3ul" path="device/htc/b3ul" remote="github" revision="cm-12.1"/>
+  <project name="b3-Dev/android_device_htc_b3-common" path="device/htc/b3-common" remote="github" revision="cm-12.1"/>
+  <project name="b3-Dev/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1-new"/>
+  <project name="b3-Dev/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1"/>
+
+</manifest>
